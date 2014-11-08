@@ -13,3 +13,6 @@ vendor
 TODO.md
 *.sublime-*
 .idea
+
+# Files from original repo
+*.old
